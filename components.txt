@@ -1,0 +1,12 @@
+Arduino uno - 180
+12V Adapter - 120
+L298N - 160
+Digi IR Sensor(*4) - (45*4) - 180
+Jumper Wires - 20
+Chasis - 100
+300rpm DC motors(*2) - (80*2) - 160
+Wheels(*2) - (20*2)  - 40
+Caster Wheel - 20
+Screws and Bolts - 20 
+
+Total - 1000
