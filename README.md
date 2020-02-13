@@ -1,6 +1,8 @@
 # Line_Following_Arduino
 Basic line following robot using Arduino Nano
 
+
+
 Sensors used: 4 IR Sensors
 
 IR sensors give 1 when white is detected and 0 when black is detected
